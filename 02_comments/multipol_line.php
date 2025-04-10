@@ -1,0 +1,11 @@
+<?php
+
+/*  
+! comment   
+* comment   
+# comment   
+*/
+
+
+
+?>
